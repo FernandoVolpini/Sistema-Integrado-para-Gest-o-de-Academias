@@ -1,7 +1,22 @@
-# Sistema Integrado para Gestão de Academias
+# Sistema Integrado para Gestão de Academias:
 Este projeto de software para gestão de academias, criado por Cauê Dessotti Silva e Fernando Mogno Volpini com orientação de Rodrigo de Oliveira Plotze, otimiza a administração e a comunicação. A plataforma centraliza dados e aprimora o acompanhamento de treinos, visando a eficiência operacional e melhores resultados para alunos e instrutores.
 
-# Tecnologias Utilizadas no Projeto
+# Objetivos Específicos:
+Para alcançar o objetivo geral, o projeto se concentrará no desenvolvimento das seguintes funcionalidades detalhadas:
+•	Gerenciamento Centralizado de Usuários: Implementar um módulo de cadastro que permita o registro completo de todas as pessoas vinculadas à academia. O sistema fará a distinção clara entre dois perfis de acesso fundamentais:
+o	Aluno: Identificado unicamente pelo seu Cadastro de Pessoa Física (CPF), este perfil terá acesso às suas informações pessoais e, principalmente, aos seus planos de treino.
+o	Instrutor: Identificado pelo seu registro no Conselho Regional de Educação Física (CREF), este perfil terá permissões para cadastrar, consultar e gerenciar os planos de treino dos alunos sob sua supervisão.
+•	Estruturação de Planos de Treino: Desenvolver uma funcionalidade robusta para a criação e visualização de rotinas de treinamento. O sistema permitirá que os instrutores montem os treinos de forma estruturada, detalhando os exercícios e a divisão específica dos grupos musculares (ex: Treino A - Peito e Tríceps, Treino B - Costas e Bíceps, etc.).
+•	Acesso Facilitado à Informação: Prover uma interface intuitiva onde os alunos possam consultar de maneira rápida e clara qual o treino programado para o dia, os exercícios que o compõem e os respectivos grupos musculares trabalhados. Isso visa aumentar a autonomia do aluno e garantir a correta execução do plano de treino estipulado pelo instrutor.
+•	Segurança e Diferenciação de Acesso: Garantir que cada tipo de usuário tenha acesso apenas às funcionalidades e informações pertinentes ao seu perfil, utilizando o CPF e o CREF como chaves de diferenciação e segurança para o login e as permissões dentro do software.
+
+# Público-Alvo:
+O software foi concebido para atender às necessidades de diferentes grupos dentro do ecossistema de uma academia, sendo eles:
+Academias de Pequeno e Médio Porte: Estabelecimentos que buscam uma solução digital para modernizar sua gestão, abandonar controles manuais (como planilhas ou fichas de papel) e oferecer um serviço mais profissional e organizado aos seus clientes. A plataforma oferece um controle mais eficiente sobre quem são seus alunos e instrutores ativos.
+Instrutores de Educação Física: Profissionais que atuam na academia e necessitam de uma ferramenta prática para otimizar seu tempo na criação, gestão e acompanhamento dos programas de treino de múltiplos alunos. O sistema facilita a organização do trabalho e a comunicação das rotinas de exercício.
+Alunos de Academia: Praticantes de musculação e outras modalidades que desejam ter clareza e acesso facilitado ao seu plano de treino diário. O software atende à necessidade de saber exatamente o que treinar a cada dia, promovendo maior engajamento, independência e aderência ao programa de treinamento.
+
+# Tecnologias Utilizadas no Projeto:
 Este projeto foi desenvolvido utilizando um conjunto de tecnologias robustas e amplamente conhecidas no mercado de desenvolvimento de software, focadas na linguagem Java para a construção de uma aplicação de desktop com acesso a um banco de dados relacional.
 
 # Linguagem e Ambiente de Desenvolvimento
