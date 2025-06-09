@@ -106,6 +106,7 @@ CREATE TABLE tb_plano_exercicio (
     CONSTRAINT fk_plano_exercicio_equipamento FOREIGN KEY (id_equipamento) REFERENCES tb_equipamento(id) ON DELETE CASCADE
 );
 
+
 COMMENT ON TABLE tb_plano_exercicio IS 'Detalha cada exercício que compõe um plano de treino, incluindo séries, repetições, etc.';
 
 
