@@ -1,6 +1,6 @@
 # RELATÓRIO TÉCNICO 
 • Integrantes: 
-Cauê Dessotti Silva 
+Cauê Dessotti Silva /
 Fernando Mogno Volpini 
 
 # Sistema Integrado para Gestão de Academias:
